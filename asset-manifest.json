@@ -1,8 +1,9 @@
 {
-  "main.css": "static/css/main.e75502f8.css",
-  "main.css.map": "static/css/main.e75502f8.css.map",
-  "main.js": "static/js/main.61f36d5f.js",
-  "main.js.map": "static/js/main.61f36d5f.js.map",
+  "main.css": "static/css/main.5d50dbdb.css",
+  "main.css.map": "static/css/main.5d50dbdb.css.map",
+  "main.js": "static/js/main.c218a42c.js",
+  "main.js.map": "static/js/main.c218a42c.js.map",
+  "static\\media\\cardback.png": "static/media/cardback.8e73f611.png",
   "static\\media\\lantern1.svg": "static/media/lantern1.7d6f2886.svg",
   "static\\media\\lantern2.svg": "static/media/lantern2.5a761fb4.svg"
 }
